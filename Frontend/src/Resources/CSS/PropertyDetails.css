@@ -1,0 +1,31 @@
+/* .cont{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust the height as needed */
+  /* background-color: #f0f0f0; /* Background color for the container */
+  /* background-image: url('./images/user-reg.jpg') 
+} 
+.Property-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Save-Button {
+    background-color: #45a049;
+} */ 
+.facility{
+    display: flex;
+    text-align: left;
+    justify-content: space-around;
+}
+/* .fac{
+    text-align: left;
+} */
+.check{
+    display: block;
+}
+.btn-success{
+  width: 100%;
+  background-image: linear-gradient(to right, rgb(0, 200, 255) ,black);
+}
